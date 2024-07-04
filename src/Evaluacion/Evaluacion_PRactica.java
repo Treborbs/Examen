@@ -34,8 +34,7 @@ public class Evaluacion_PRactica {
 			 break;
 		 }
 		 else if (numero > 99999) {
-			 System.out.println("Numero incorrecto ");
-		 	
+			 System.err.println("Numero incorrecto ");
 		 }
 		 
 		 
